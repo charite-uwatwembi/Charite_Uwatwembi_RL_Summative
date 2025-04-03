@@ -3,7 +3,7 @@
 ## 1. Project Overview  
 This project implements a reinforcement learning system for maternal health monitoring, where an AI agent makes critical healthcare decisions based on vital sign parameters. The environment simulates a patient's changing physiological states (heart rate, blood pressure, oxygen levels, etc.), and the agent must select optimal medical interventions. Two RL approaches were implemented: Deep Q-Networks (DQN) and Proximal Policy Optimization (PPO), with comparative analysis of their performance in this healthcare scenario.
 
-![Agent Demo](images/agent_simulation.gif)
+![Agent Demo](images/agent_navigation.gif)
 ![Agent Demo](images/maternal_health_env.gif)
 
 ## 2. Environment Description  
