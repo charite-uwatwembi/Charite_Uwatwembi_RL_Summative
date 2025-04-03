@@ -56,7 +56,7 @@ def calculate_reward(action, state):
 - **Grid world**: State space representation  
 
 #### Agent in Action:
-![Agent Running](images/agent.gif)
+![Agent Running](images/simulation.gif)
 
 ---
 
