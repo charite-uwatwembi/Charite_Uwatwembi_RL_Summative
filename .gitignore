@@ -1,1 +1,2 @@
-models/**/*.zip
+models/dqn/*.zip
+models/pg/*.zip
